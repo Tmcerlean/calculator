@@ -1,5 +1,7 @@
 # calculator
 A simple calculator that can perform basic arithmetic operations. Built using HTML5, CSS3 and JS ES6 features.
+- [View the demo here.](https://tmcerlean.github.io/calculator/)
+
 
 ## Features
 - Basic arithmetic operations (add, subtract, multiply, divide and modulus).
